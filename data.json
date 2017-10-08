@@ -1,0 +1,1984 @@
+{
+  "restaurant": [
+    {
+      "name": "Օստ Ֆուդ Կորտ",
+      "url": "/restaurant/ost-bistro-mashtots.html",
+      "tag": "Լահմաջո, Շաուրմա, Պիցցա",
+      "rating": "85.4"
+    },
+    {
+      "name": "Բլեք Անգուս",
+      "url": "/restaurant/black-angus-mashtots.html",
+      "tag": "Ամերիկյան, Բուրգեր և Սենդվիչ, Պիցցա",
+      "rating": "98.4"
+    },
+    {
+      "name": "Գենացվալե Պանդոկ",
+      "url": "/restaurant/genacvale-pandok-paronyan.html",
+      "tag": "Հավի գրիլ, Վրացական",
+      "rating": "90.8"
+    },
+    {
+      "name": "Պանդոկ Երևան",
+      "url": "/restaurant/pandok-yerevan.html",
+      "tag": "Հայկական",
+      "rating": "89.6"
+    },
+    {
+      "name": "Կարաս ազգային սննդի ցանց",
+      "url": "/restaurant/karas-vardanants.html",
+      "tag": "Հավի գրիլ, Հայկական",
+      "rating": "87.2"
+    },
+    {
+      "name": "Մր. Գիրոս",
+      "url": "/restaurant/mr-gyros-komitas.html",
+      "tag": "Բուրգեր և Սենդվիչ, Եվրոպական, Հունական, Շաուրմա",
+      "rating": "95"
+    },
+    {
+      "name": "Երևանի շաուրմա",
+      "url": "/restaurant/yerevani-shaurma.html",
+      "tag": "Լահմաջո, Խորոված, քյաբաբ, Հավի գրիլ, Կարկանդակ, Շաուրմա",
+      "rating": "93.4"
+    },
+    {
+      "name": "Փաբ 37",
+      "url": "/restaurant/pub_37.html",
+      "tag": "Բուրգեր և Սենդվիչ, Գարեջրատուն և Փաբ, Եվրոպական, Լանչ",
+      "rating": "0"
+    },
+    {
+      "name": "Բելլա Իտալիա",
+      "url": "/restaurant/bella-italia.html",
+      "tag": "Լավ առաջարկ, Եվրոպական, Իտալական, Լանչ, Պաստա, Պիցցա",
+      "rating": "70.8"
+    },
+    {
+      "name": "Պիցցա Հատ",
+      "url": "/restaurant/pizza-hut.html",
+      "tag": "Ամերիկյան, Պաստա, Պիցցա",
+      "rating": "91.8"
+    },
+    {
+      "name": "Լիբանանյան շաուրմա",
+      "url": "/restaurant/lebanon-shawarma.html",
+      "tag": "Լավ առաջարկ, Լիբանանյան, Արևելյան, Բուրգեր և Սենդվիչ, Շաուրմա",
+      "rating": "86"
+    },
+    {
+      "name": "Վոկ ընդ Ռոլ",
+      "url": "/restaurant/wok-and-roll.html",
+      "tag": "Ասիական, Ֆրեշ, Պաղպաղակ, Թայլանդական, Պաստա, Պիցցա, Սուշի",
+      "rating": "85.8"
+    },
+    {
+      "name": "Լա Քուչինա",
+      "url": "/restaurant/la-cucina.html",
+      "tag": "Բուրգեր և Սենդվիչ, Եվրոպական, Իտալական, Պաստա, Պիցցա, Սթեյք",
+      "rating": "86.6"
+    },
+    {
+      "name": "Ծիրանի",
+      "url": "/restaurant/tsirani.html",
+      "tag": "Խորոված, քյաբաբ, Հայկական",
+      "rating": "71.6"
+    },
+    {
+      "name": "Վասաբի",
+      "url": "/restaurant/wasabi.html",
+      "tag": "Լավ առաջարկ, Ասիական, Սուշի, Ճապոնական",
+      "rating": "70"
+    },
+    {
+      "name": "Կովկաս Պանդոկ",
+      "url": "/restaurant/kovkas.html",
+      "tag": "Արցախյան, Լահմաջո, Խորոված, քյաբաբ, Հայկական, Նախաճաշ, Վրացական",
+      "rating": "77"
+    },
+    {
+      "name": "Քեյ Էֆ Սի",
+      "url": "/restaurant/kfc-mashtots-avenue.html",
+      "tag": "Ամերիկյան, Բուրգեր և Սենդվիչ",
+      "rating": "88.8"
+    },
+    {
+      "name": "Grill.am",
+      "url": "/restaurant/grillam.html",
+      "tag": "Լավ առաջարկ, Խորոված, քյաբաբ, Հավի գրիլ",
+      "rating": "81.6"
+    },
+    {
+      "name": "Կլասիկ Բուրգեր",
+      "url": "/restaurant/classic-burger.html",
+      "tag": "Ամերիկյան, Բուրգեր և Սենդվիչ",
+      "rating": "97.2"
+    },
+    {
+      "name": "Պեկին",
+      "url": "/restaurant/beijing.html",
+      "tag": "Չինական, Լավ առաջարկ, Ասիական, Լանչ, Սուշի, Ճապոնական",
+      "rating": "90"
+    },
+    {
+      "name": "Զեյթունա",
+      "url": "/restaurant/zeituna.html",
+      "tag": "Արևելյան, Սիրիական",
+      "rating": "0"
+    },
+    {
+      "name": "Սաբթայթլ",
+      "url": "/restaurant/subtitle.html",
+      "tag": "Ամերիկյան, Բուրգեր և Սենդվիչ",
+      "rating": "98.8"
+    },
+    {
+      "name": "ԱԿՕ Սուշի",
+      "url": "/restaurant/ako-sushi.html",
+      "tag": "Սուշի, Ճապոնական",
+      "rating": "81.6"
+    },
+    {
+      "name": "Բիգ ընդ Թեյսթի",
+      "url": "/restaurant/big-and-tasty.html",
+      "tag": "Բուրգեր և Սենդվիչ, Պաստա, Պիցցա",
+      "rating": "0"
+    },
+    {
+      "name": "Նյու ՏԱՕ",
+      "url": "/restaurant/new-tao.html",
+      "tag": "Չինական, Լավ առաջարկ, Ասիական, Սուշի, Ճապոնական",
+      "rating": "71.2"
+    },
+    {
+      "name": "Դոստոևսկի",
+      "url": "/restaurant/dostoyevsky.html",
+      "tag": "Բուրգեր և Սենդվիչ, Խորոված, քյաբաբ, Նախաճաշ, Պաստա, Սթեյք",
+      "rating": "0"
+    },
+    {
+      "name": "Թեմուրնոց",
+      "url": "/restaurant/temurnots.html",
+      "tag": "Խորոված, քյաբաբ",
+      "rating": "60"
+    },
+    {
+      "name": "Զեյթունի Շաուրմա",
+      "url": "/restaurant/zeytuni-shawarma.html",
+      "tag": "Բուրգեր և Սենդվիչ, Շաուրմա",
+      "rating": "0"
+    },
+    {
+      "name": "Եգիպտացորեն",
+      "url": "/restaurant/corn.html",
+      "tag": "Ասիական",
+      "rating": "0"
+    },
+    {
+      "name": "Քլաբ Բուրգեր",
+      "url": "/restaurant/club-burger.html",
+      "tag": "Հոթ Դոգ, Բուրգեր և Սենդվիչ",
+      "rating": "0"
+    },
+    {
+      "name": "Գրիլ էնդ Կո",
+      "url": "/restaurant/grill-and-co.html",
+      "tag": "Հոթ Դոգ, Բուրգեր և Սենդվիչ",
+      "rating": "0"
+    },
+    {
+      "name": "Մամա Միա",
+      "url": "/restaurant/mama-mia-aleq-manukyan.html",
+      "tag": "Լավ առաջարկ, Եվրոպական, Իտալական, Պիցցա",
+      "rating": "70"
+    },
+    {
+      "name": "Կառմա",
+      "url": "/restaurant/karma.html",
+      "tag": "Ասիական, Հնդկական",
+      "rating": "80"
+    },
+    {
+      "name": "Ինդիան Մեհակ Ռեստորան",
+      "url": "/restaurant/indian-mehak-restaurant.html",
+      "tag": "Ասիական, Հնդկական",
+      "rating": "55"
+    },
+    {
+      "name": "Դերյան Քեբաբ Ռեստորան",
+      "url": "/restaurant/derian-kebab.html",
+      "tag": "Արևելյան, Լահմաջո, Խորոված, քյաբաբ",
+      "rating": "66.6"
+    },
+    {
+      "name": "ՓիթՍտոպ Բուրգեր",
+      "url": "/restaurant/pitstop-burger.html",
+      "tag": "Լավ առաջարկ, Ամերիկյան, Բուրգեր և Սենդվիչ, Շաուրմա",
+      "rating": "85"
+    },
+    {
+      "name": "Լաբիրինթ",
+      "url": "/restaurant/labeerint.html",
+      "tag": "Խեցգետին, Բուրգեր և Սենդվիչ, Գարեջրատուն և Փաբ, Խորոված, քյաբաբ, Կարկանդակ, Հայկական, Պիցցա",
+      "rating": "0"
+    },
+    {
+      "name": "Սասնատուն Պանդոկ",
+      "url": "/restaurant/sasnatun-tavern.html",
+      "tag": "Արարատյան, Լավ առաջարկ, Խեցգետին, Լահմաջո, Հայկական, Վրացական, Գարեջուր, Խեցգետին",
+      "rating": "15"
+    },
+    {
+      "name": "Ալֆա Ֆարմ",
+      "url": "/restaurant/alfa-pharm.html",
+      "tag": "Մանկական սնունդ և տակդիր, Ալֆա Ֆարմ",
+      "rating": "90"
+    },
+    {
+      "name": "Մոն Ամի",
+      "url": "/restaurant/mon-amie.html",
+      "tag": "Ծաղիկներ և Փուչիկներ",
+      "rating": "0"
+    },
+    {
+      "name": "Ին Վինո",
+      "url": "/restaurant/in-vino.html",
+      "tag": "Ըմպելիքներ և Խորտիկներ",
+      "rating": "100"
+    },
+    {
+      "name": "Արիա",
+      "url": "/restaurant/arya.html",
+      "tag": "Արևելյան, Իրանական/Պարսկական, Խորոված, քյաբաբ, Պաստա, Սթեյք",
+      "rating": "80"
+    },
+    {
+      "name": "Կոֆիսթորի",
+      "url": "/restaurant/coffeestory.html",
+      "tag": "Քաղցրավենիք, Եվրոպական, Սուրճ և Թեյ, Նախաճաշ, Պաստա",
+      "rating": "0"
+    },
+    {
+      "name": "Դոկա Պիցցա",
+      "url": "/restaurant/doka-pizza.html",
+      "tag": "Բուրգեր և Սենդվիչ, Եվրոպական, Իտալական, Լահմաջո, Խորոված, քյաբաբ, Հավի գրիլ, Նախաճաշ, Պիցցա",
+      "rating": "72.8"
+    },
+    {
+      "name": "Հալապենո",
+      "url": "/restaurant/jalapeno.html",
+      "tag": "Մեքսիկական, Շաուրմա",
+      "rating": "0"
+    },
+    {
+      "name": "Մարտիրոս",
+      "url": "/restaurant/martiros.html",
+      "tag": "Ասիական, Բուրգեր և Սենդվիչ",
+      "rating": "100"
+    },
+    {
+      "name": "Թայմ Թու Իթ",
+      "url": "/restaurant/time-to-eat.html",
+      "tag": "Ամերիկյան, Բուրգեր և Սենդվիչ",
+      "rating": "90"
+    },
+    {
+      "name": "Պեկին Կասկադ",
+      "url": "/restaurant/beijing-cascade.html",
+      "tag": "Չինական, Լավ առաջարկ, Ասիական",
+      "rating": "30"
+    },
+    {
+      "name": "Աբու Հակոբ",
+      "url": "/restaurant/abu-hagop-pushkin.html",
+      "tag": "Լավ առաջարկ, Արևելյան, Բուրգեր և Սենդվիչ",
+      "rating": "78"
+    },
+    {
+      "name": "Պիցցա Դի Ռոմա",
+      "url": "/restaurant/pizza-di-roma.html",
+      "tag": "Եվրոպական, Իտալական, Խորոված, քյաբաբ, Պաստա, Պիցցա, Սթեյք",
+      "rating": "86.6"
+    },
+    {
+      "name": "Ջանո",
+      "url": "/restaurant/jano.html",
+      "tag": "Լավ առաջարկ, Արևելյան, Բուրգեր և Սենդվիչ, Լահմաջո, Խորոված, քյաբաբ, Հավի գրիլ",
+      "rating": "94.4"
+    },
+    {
+      "name": "Ամերիկանո Պիցցա",
+      "url": "/restaurant/americano-pizza.html",
+      "tag": "Պիցցա",
+      "rating": "90"
+    },
+    {
+      "name": "Ժակո",
+      "url": "/restaurant/jaco.html",
+      "tag": "Լավ առաջարկ, Արևելյան, Լահմաջո, Խորոված, քյաբաբ",
+      "rating": "74"
+    },
+    {
+      "name": "Քրամբս",
+      "url": "/restaurant/crumbs-argishti.html",
+      "tag": "Քաղցրավենիք, Բուրգեր և Սենդվիչ, Հացաբուլկեղեն, Ֆրեշ, Պաղպաղակ, Նախաճաշ",
+      "rating": "55"
+    },
+    {
+      "name": "Թաուկ",
+      "url": "/restaurant/tawouk.html",
+      "tag": "Լավ առաջարկ, Արևելյան, Բուրգեր և Սենդվիչ",
+      "rating": "100"
+    },
+    {
+      "name": "Աֆրիկյանների Ռեստորան",
+      "url": "/restaurant/afrikyanneri-restaurant.html",
+      "tag": "Բուրգեր և Սենդվիչ, Լահմաջո, Խորոված, քյաբաբ, Հայկական, Շաուրմա, Պիցցա",
+      "rating": "0"
+    },
+    {
+      "name": "Թուրինգյան Բրաթվուրստ",
+      "url": "/restaurant/thuringer-bratwurst.html",
+      "tag": "Հոթ Դոգ, Գերմանական, Բուրգեր և Սենդվիչ, Շաուրմա, Սթեյք",
+      "rating": "0"
+    },
+    {
+      "name": "Բուլդոգ",
+      "url": "/restaurant/bulldog.html",
+      "tag": "Հոթ Դոգ, Բուրգեր և Սենդվիչ",
+      "rating": "100"
+    },
+    {
+      "name": "Չարենցի 28",
+      "url": "/restaurant/charentsi_28.html",
+      "tag": "Արևելյան, Եվրոպական, Պաստա, Միջերկրածովյան",
+      "rating": "100"
+    },
+    {
+      "name": "Մալօկկօ Կաֆե",
+      "url": "/restaurant/malocco-cafe-tamanyan.html",
+      "tag": "Բուրգեր և Սենդվիչ, Եվրոպական, Նախաճաշ, Պաստա, Սթեյք",
+      "rating": "93.4"
+    },
+    {
+      "name": "Մալօկկօ թխվածք և ավելին",
+      "url": "/restaurant/malocco-pastry-and-more.html",
+      "tag": "Քաղցրավենիք",
+      "rating": "0"
+    },
+    {
+      "name": "Սամուրայ",
+      "url": "/restaurant/samurai-patver.html",
+      "tag": "Ասիական, Սուշի, Ճապոնական",
+      "rating": "0"
+    },
+    {
+      "name": "Տանթունի",
+      "url": "/restaurant/tantuni.html",
+      "tag": "Արևելյան, Բուրգեր և Սենդվիչ, Լահմաջո, Շաուրմա",
+      "rating": "0"
+    },
+    {
+      "name": "Թոմաս Սմոքի Րիբս",
+      "url": "/restaurant/tomas-smokey-ribs.html",
+      "tag": "Ամերիկյան, Բուրգեր և Սենդվիչ, Լանչ, Սթեյք, Գարեջուր, Խեցգետին",
+      "rating": "100"
+    },
+    {
+      "name": "Կակտուս",
+      "url": "/restaurant/cactus.html",
+      "tag": "Մեքսիկական, Սթեյք",
+      "rating": "70"
+    },
+    {
+      "name": "Լագոնիտ",
+      "url": "/restaurant/lagonid.html",
+      "tag": "Արևելյան",
+      "rating": "100"
+    },
+    {
+      "name": "Արցախի բարիքներ",
+      "url": "/restaurant/artsakhi-bariqner.html",
+      "tag": "Ըմպելիքներ և Խորտիկներ, Հայկական",
+      "rating": "0"
+    },
+    {
+      "name": "Արևելյան Խոհանոց",
+      "url": "/restaurant/eastern-cuisine.html",
+      "tag": "Արևելյան, Լահմաջո, Խորոված, քյաբաբ, Պիցցա, Սթեյք",
+      "rating": "76.2"
+    },
+    {
+      "name": "Պաուլաներ",
+      "url": "/restaurant/paulaner.html",
+      "tag": "Խեցգետին, Գերմանական, Գարեջրատուն և Փաբ, Եվրոպական, Սթեյք",
+      "rating": "100"
+    },
+    {
+      "name": "Գրանդ Փըթեյթո",
+      "url": "/restaurant/grand-potato.html",
+      "tag": "Եվրոպական",
+      "rating": "100"
+    },
+    {
+      "name": "Արշավներ Ակումբ սրճարան և փաբ",
+      "url": "/restaurant/arshavner-club-cafe-and-pub.html",
+      "tag": "Բուրգեր և Սենդվիչ, Եվրոպական, Լանչ",
+      "rating": "0"
+    },
+    {
+      "name": "Արմադ",
+      "url": "/restaurant/armad.html",
+      "tag": "",
+      "rating": "0"
+    },
+    {
+      "name": "Իմ Ամրոցը",
+      "url": "/restaurant/my-castle.html",
+      "tag": "Խորոված, քյաբաբ, Պաստա, Պիցցա",
+      "rating": "0"
+    },
+    {
+      "name": "Թուֆենկյան Խարբերդ Ռեստորան",
+      "url": "/restaurant/tufenkian-kharpert-restaurant.html",
+      "tag": "Արևելյան, Լահմաջո, Հայկական, Պաստա",
+      "rating": "40"
+    },
+    {
+      "name": "Արաբեսք",
+      "url": "/restaurant/arabesque.html",
+      "tag": "Արևելյան",
+      "rating": "100"
+    },
+    {
+      "name": "Կարլոֆֆ Չեխական ռեստորան-գարեջրատուն",
+      "url": "/restaurant/karloff-czech-brewery.html",
+      "tag": "Գարեջրատուն և Փաբ, Եվրոպական, Գարեջուր, Խեցգետին",
+      "rating": "0"
+    },
+    {
+      "name": "Նավավար",
+      "url": "/restaurant/navavar.html",
+      "tag": "Ձուկ և ծովամթերք, Եվրոպական",
+      "rating": "20"
+    },
+    {
+      "name": "Պռոշյանի Կոնյակի Գործարան",
+      "url": "/restaurant/proshyan-brandy-factory.html",
+      "tag": "Գաստրոնոմ, Ըմպելիքներ և Խորտիկներ",
+      "rating": "0"
+    },
+    {
+      "name": "Փարթիտտո",
+      "url": "/restaurant/partytto.html",
+      "tag": "Ծաղիկներ և Փուչիկներ",
+      "rating": "98"
+    },
+    {
+      "name": "Էյֆել",
+      "url": "/restaurant/eiffel-gift-cards.html",
+      "tag": "Լավ առաջարկ, Նվեր Քարտ",
+      "rating": "0"
+    },
+    {
+      "name": "Սվոչ",
+      "url": "/restaurant/swatch-gift-cards.html",
+      "tag": "Լավ առաջարկ, Նվեր Քարտ",
+      "rating": "0"
+    },
+    {
+      "name": "Ինորի",
+      "url": "/restaurant/inori-gift-card.html",
+      "tag": "Լավ առաջարկ, Նվեր Քարտ",
+      "rating": "0"
+    },
+    {
+      "name": "Բուկինիստ Գրախանութների Ցանց",
+      "url": "/restaurant/bookinist-bookstores-chain-gift-card.html",
+      "tag": "Լավ առաջարկ, Նվեր Քարտ",
+      "rating": "0"
+    },
+    {
+      "name": "Չոքլիթ Սթորի",
+      "url": "/restaurant/chocolate-story.html",
+      "tag": "Քաղցրավենիք",
+      "rating": "0"
+    },
+    {
+      "name": "Բոչկա",
+      "url": "/restaurant/bochka-restaurant.html",
+      "tag": "Լահմաջո, Խորոված, քյաբաբ, Հայկական, Սթեյք",
+      "rating": "0"
+    },
+    {
+      "name": "Մագա Ծաղկի Սրահ",
+      "url": "/restaurant/maga-flower-boutique.html",
+      "tag": "Ծաղիկներ և Փուչիկներ",
+      "rating": "0"
+    },
+    {
+      "name": "Բեյգլ շոփ",
+      "url": "/restaurant/bagel-shop.html",
+      "tag": "Քաղցրավենիք, Ամերիկյան, Բուրգեր և Սենդվիչ",
+      "rating": "0"
+    },
+    {
+      "name": "Կրեպ Հաուս",
+      "url": "/restaurant/crepe-house.html",
+      "tag": "Քաղցրավենիք, Եվրոպական",
+      "rating": "100"
+    },
+    {
+      "name": "Ֆիթնես Քուք",
+      "url": "/restaurant/fitness-cook.html",
+      "tag": "Քաղցրավենիք, Էկո և Օրգանական սնունդ",
+      "rating": "100"
+    },
+    {
+      "name": "Լիբանան Ռեստորան",
+      "url": "/restaurant/lebanon-restaurant.html",
+      "tag": "Լիբանանյան, Արևելյան, Բուրգեր և Սենդվիչ, Խորոված, քյաբաբ, Միջերկրածովյան",
+      "rating": "0"
+    },
+    {
+      "name": "Սվարովսկի",
+      "url": "/restaurant/swarovski-gift-card.html",
+      "tag": "Լավ առաջարկ, Նվեր Քարտ",
+      "rating": "0"
+    },
+    {
+      "name": "Պնդուկ",
+      "url": "/restaurant/pnduk.html",
+      "tag": "Գաստրոնոմ",
+      "rating": "0"
+    },
+    {
+      "name": "Թոնրատուն Ոսկե Աքաղաղ",
+      "url": "/restaurant/tonratun-voske-aqaghagh.html",
+      "tag": "Լավ առաջարկ, Արցախյան, Լահմաջո, Խորոված, քյաբաբ, Հավի գրիլ, Լանչ, Հայկական, Շաուրմա",
+      "rating": "48.8"
+    },
+    {
+      "name": "Ա. Ս. Լանչ և Բեյքըրի",
+      "url": "/restaurant/a-s-lunch-and-bakery.html",
+      "tag": "Լանչ, Հայկական",
+      "rating": "100"
+    },
+    {
+      "name": "ԲիԷլլա",
+      "url": "/restaurant/biella.html",
+      "tag": "Թարմ միս և մսամթերք, Կիսաֆաբրիկատներ",
+      "rating": "0"
+    },
+    {
+      "name": "Հալալե",
+      "url": "/restaurant/halale.html",
+      "tag": "Ձուկ և ծովամթերք, Իրանական/Պարսկական, Խորոված, քյաբաբ",
+      "rating": "0"
+    },
+    {
+      "name": "Բալենի",
+      "url": "/restaurant/baleni.html",
+      "tag": "Ձուկ և ծովամթերք, Բուրգեր և Սենդվիչ, Եվրոպական, Պաստա, Սթեյք",
+      "rating": "0"
+    },
+    {
+      "name": "Կաֆե Շամպայն",
+      "url": "/restaurant/cafe-champagne.html",
+      "tag": "Բուրգեր և Սենդվիչ, Եվրոպական, Լանչ, Պաստա, Պիցցա, Սթեյք",
+      "rating": "0"
+    },
+    {
+      "name": "Պոդվալլ",
+      "url": "/restaurant/podwall.html",
+      "tag": "Բուրգեր և Սենդվիչ, Պաստա, Սթեյք",
+      "rating": "0"
+    },
+    {
+      "name": "Քաղաքից Դուրս",
+      "url": "/restaurant/countryside.html",
+      "tag": "Ձուկ և ծովամթերք, Խորոված, քյաբաբ",
+      "rating": "0"
+    },
+    {
+      "name": "Մեցցո",
+      "url": "/restaurant/mezzo-classic-house-club.html",
+      "tag": "Ասիական, Սուշի, Ճապոնական",
+      "rating": "60"
+    },
+    {
+      "name": "Մոզաիկ",
+      "url": "/restaurant/mozaic.html",
+      "tag": "Ասիական, Եվրոպական, Նախաճաշ, Պաստա, Սթեյք",
+      "rating": "0"
+    },
+    {
+      "name": "Հոթ Գրիլ Փաբ",
+      "url": "/restaurant/hot-grill-pub.html",
+      "tag": "Խեցգետին, Ձուկ և ծովամթերք, Բուրգեր և Սենդվիչ, Լահմաջո, Խորոված, քյաբաբ, Հավի գրիլ, Շաուրմա",
+      "rating": "0"
+    },
+    {
+      "name": "Գուրման Աղցան",
+      "url": "/restaurant/gurman-salad.html",
+      "tag": "Եվրոպական",
+      "rating": "0"
+    },
+    {
+      "name": "Լինզ Էքսպրեսս",
+      "url": "/restaurant/linz-express.html",
+      "tag": "Մանկական սնունդ և տակդիր, Կոնտակտային ոսպնյակներ",
+      "rating": "0"
+    },
+    {
+      "name": "Կոնո Պիցցա",
+      "url": "/restaurant/kono-pizza-new.html",
+      "tag": "Պիցցա",
+      "rating": "20"
+    },
+    {
+      "name": "Ֆեյսֆուդ",
+      "url": "/restaurant/facefood.html",
+      "tag": "Բուրգեր և Սենդվիչ, Պաստա",
+      "rating": "100"
+    },
+    {
+      "name": "Քյավառի",
+      "url": "/restaurant/kyavari.html",
+      "tag": "Բուրգեր և Սենդվիչ, Հայկական",
+      "rating": "0"
+    },
+    {
+      "name": "Գուրման",
+      "url": "/restaurant/gurman.html",
+      "tag": "Լահմաջո, Խորոված, քյաբաբ, Հավի գրիլ, Լանչ, Կարկանդակ, Հայկական, Շաուրմա, Վրացական",
+      "rating": "0"
+    },
+    {
+      "name": "Քեբաբջի Պանդոկ",
+      "url": "/restaurant/kebabji-pandok.html",
+      "tag": "Արևելյան, Բուրգեր և Սենդվիչ, Լահմաջո, Խորոված, քյաբաբ, Արաբական",
+      "rating": "0"
+    },
+    {
+      "name": "Շաշլիչնիյ Դվոր",
+      "url": "/restaurant/shashlichniy-dvor.html",
+      "tag": "Խորոված, քյաբաբ",
+      "rating": "0"
+    },
+    {
+      "name": "Լանչ Հաուս",
+      "url": "/restaurant/lunch-house.html",
+      "tag": "Հոթ Դոգ, Բուրգեր և Սենդվիչ, Լանչ, Շաուրմա",
+      "rating": "80"
+    },
+    {
+      "name": "Սիամուդս",
+      "url": "/restaurant/siamoods-gift-card.html",
+      "tag": "Լավ առաջարկ, Նվեր Քարտ",
+      "rating": "0"
+    },
+    {
+      "name": "Եռանկյունի Տուն-Ռեստորան",
+      "url": "/restaurant/yerankyuni-restaurant.html",
+      "tag": "Խորոված, քյաբաբ, Հայկական",
+      "rating": "0"
+    },
+    {
+      "name": "Արաբիկանո",
+      "url": "/restaurant/arapicano.html",
+      "tag": "Արևելյան, Բուրգեր և Սենդվիչ, Շաուրմա",
+      "rating": "0"
+    },
+    {
+      "name": "Տրապեզա",
+      "url": "/restaurant/trapeza.html",
+      "tag": "Ձուկ և ծովամթերք, Բուրգեր և Սենդվիչ, Եվրոպական, Պիցցա, Սթեյք",
+      "rating": "0"
+    },
+    {
+      "name": "Պանդորա",
+      "url": "/restaurant/pandora-gift-card.html",
+      "tag": "Լավ առաջարկ, Նվեր Քարտ",
+      "rating": "0"
+    },
+    {
+      "name": "Թայմ",
+      "url": "/restaurant/time-gift-card.html",
+      "tag": "Լավ առաջարկ, Նվեր Քարտ",
+      "rating": "0"
+    },
+    {
+      "name": "Վերոնա Գարեջրատուն",
+      "url": "/restaurant/verona-beer-house.html",
+      "tag": "Գարեջրատուն և Փաբ, Եվրոպական, Սթեյք",
+      "rating": "20"
+    },
+    {
+      "name": "Թումանյան Պանդոկ",
+      "url": "/restaurant/tumanyan-pandok.html",
+      "tag": "Խորոված, քյաբաբ, Հայկական, Վրացական, Կովկասյան",
+      "rating": "10"
+    },
+    {
+      "name": "ԲելլաՎիստա Իտալիա",
+      "url": "/restaurant/bellavista-italia.html",
+      "tag": "Եվրոպական, Իտալական, Պաստա, Պիցցա",
+      "rating": "0"
+    },
+    {
+      "name": "Տաք Կաթսա",
+      "url": "/restaurant/taq-katsa.html",
+      "tag": "Լահմաջո, Կարկանդակ",
+      "rating": "0"
+    },
+    {
+      "name": "Հալեպ-Երևան",
+      "url": "/restaurant/halep-yerevan.html",
+      "tag": "Արևելյան, Բուրգեր և Սենդվիչ, Շաուրմա, Պիցցա",
+      "rating": "0"
+    },
+    {
+      "name": "Ալֆա Ֆարմ Նվեր քարտ",
+      "url": "/restaurant/alfa-pharm-gift-card.html",
+      "tag": "Լավ առաջարկ, Նվեր Քարտ",
+      "rating": "0"
+    },
+    {
+      "name": "Ռաֆֆաելլո Ռեսատորան և Պիցցերիա",
+      "url": "/restaurant/raffaello-restaurant-and-pizzeria.html",
+      "tag": "Լավ առաջարկ, Իտալական, Պիցցա",
+      "rating": "0"
+    },
+    {
+      "name": "Ուրֆա Ֆասթ Ֆուդ",
+      "url": "/restaurant/urfa-fast-food.html",
+      "tag": "Արևելյան, Բուրգեր և Սենդվիչ, Սիրիական",
+      "rating": "0"
+    },
+    {
+      "name": "Կոլոսոկ",
+      "url": "/restaurant/kolosok.html",
+      "tag": "Հայկական",
+      "rating": "0"
+    },
+    {
+      "name": "Գյուլբենկյան Փուռ",
+      "url": "/restaurant/gyulbenkyan-pur.html",
+      "tag": "Բուրգեր և Սենդվիչ, Հացաբուլկեղեն",
+      "rating": "0"
+    },
+    {
+      "name": "Պապարացի",
+      "url": "/restaurant/paparazzi-cafe.html",
+      "tag": "Քաղցրավենիք, Պաստա, Պիցցա",
+      "rating": "0"
+    },
+    {
+      "name": "ՊաՊա Պիցցա",
+      "url": "/restaurant/papa-pizza.html",
+      "tag": "Պիցցա",
+      "rating": "0"
+    },
+    {
+      "name": "Մանե Ռեստորան-Ցուցասրահ",
+      "url": "/restaurant/mane-restaurant-showroom.html",
+      "tag": "Բուրգեր և Սենդվիչ, Եվրոպական, Հայկական, Պաստա, Սթեյք",
+      "rating": "0"
+    },
+    {
+      "name": "Լուի Շարդեն Բրեդ ընդ Բեյքրի",
+      "url": "/restaurant/louis-charden-bread-and-bakery.html",
+      "tag": "Հացաբուլկեղեն, Ֆրանսիական",
+      "rating": "0"
+    },
+    {
+      "name": "Տարբեր",
+      "url": "/restaurant/tarber.html",
+      "tag": "Ձուկ և ծովամթերք, Եվրոպական, Պաստա",
+      "rating": "0"
+    },
+    {
+      "name": "Բոնժուղ",
+      "url": "/restaurant/bonjour.html",
+      "tag": "Բուրգեր և Սենդվիչ, Հացաբուլկեղեն",
+      "rating": "0"
+    },
+    {
+      "name": "Նոննո Ադրիանո",
+      "url": "/restaurant/nonno-adriano.html",
+      "tag": "Պիցցա",
+      "rating": "100"
+    },
+    {
+      "name": "Պալերմո Պիցցա",
+      "url": "/restaurant/palermo-pizza.html",
+      "tag": "Բուրգեր և Սենդվիչ, Եվրոպական, Պիցցա",
+      "rating": "63.4"
+    },
+    {
+      "name": "Մի Մորենա",
+      "url": "/restaurant/mi-morena.html",
+      "tag": "Բուրգեր և Սենդվիչ, Եվրոպական, Լանչ, Իսպանական",
+      "rating": "0"
+    },
+    {
+      "name": "Ջոս",
+      "url": "/restaurant/jose.html",
+      "tag": "Ասիական, Եվրոպական, Խորոված, քյաբաբ, Մեքսիկական, Պիցցա, Սթեյք, Սուշի, Ճապոնական",
+      "rating": "0"
+    },
+    {
+      "name": "Բեսթ Շաուրմա",
+      "url": "/restaurant/best-shawarma.html",
+      "tag": "Բուրգեր և Սենդվիչ, Շաուրմա",
+      "rating": "0"
+    },
+    {
+      "name": "Ջազզվե դեսերտ",
+      "url": "/restaurant/jazzve-dessert.html",
+      "tag": "Քաղցրավենիք, Կարկանդակ",
+      "rating": "100"
+    },
+    {
+      "name": "Քամ Ին Երևան",
+      "url": "/restaurant/come-in-yerevan.html",
+      "tag": "Բուրգեր և Սենդվիչ, Գարեջրատուն և Փաբ, Եվրոպական, Կովկասյան",
+      "rating": "0"
+    },
+    {
+      "name": "Հալեպ Ռեստորան",
+      "url": "/restaurant/halep-restaurant.html",
+      "tag": "Արևելյան, Բուրգեր և Սենդվիչ, Լահմաջո, Խորոված, քյաբաբ",
+      "rating": "0"
+    },
+    {
+      "name": "Լեդի Ջի Քեյք",
+      "url": "/restaurant/lady-g-cake.html",
+      "tag": "Քաղցրավենիք",
+      "rating": "0"
+    },
+    {
+      "name": "Անտառային Ձայներ",
+      "url": "/restaurant/antarayin-dzayner.html",
+      "tag": "Խորոված, քյաբաբ, Պաստա, Սթեյք",
+      "rating": "0"
+    },
+    {
+      "name": "Լահմաջո Հաուս",
+      "url": "/restaurant/lahmajo-house.html",
+      "tag": "Լահմաջո, Լանչ, Պիցցա",
+      "rating": "0"
+    },
+    {
+      "name": "Օջախ Ռեստորան",
+      "url": "/restaurant/ojakh-restaurant.html",
+      "tag": "Ձուկ և ծովամթերք, Խորոված, քյաբաբ, Հայկական, Կովկասյան",
+      "rating": "0"
+    },
+    {
+      "name": "Ղարաբաղի Ժենգյալով Հաց",
+      "url": "/restaurant/gharabaghi-jengyalov-hats.html",
+      "tag": "Արցախյան, Հայկական",
+      "rating": "0"
+    },
+    {
+      "name": "Սթեյշն Բեյքրի",
+      "url": "/restaurant/station-bakery.html",
+      "tag": "Հոթ Դոգ, Բուրգեր և Սենդվիչ, Լահմաջո, Շաուրմա, Պիցցա, Արաբական",
+      "rating": "0"
+    },
+    {
+      "name": "Բրանչ",
+      "url": "/restaurant/branch.html",
+      "tag": "Բուրգեր և Սենդվիչ",
+      "rating": "0"
+    },
+    {
+      "name": "Սմայլ",
+      "url": "/restaurant/smile.html",
+      "tag": "Ծաղիկներ և Փուչիկներ",
+      "rating": "0"
+    },
+    {
+      "name": "Կալաբոկ Քեյք",
+      "url": "/restaurant/kalabok-cake.html",
+      "tag": "Քաղցրավենիք",
+      "rating": "70"
+    },
+    {
+      "name": "Շիրազի Հացատուն",
+      "url": "/restaurant/shirazi-hatsatun.html",
+      "tag": "Խորոված, քյաբաբ, Հայկական",
+      "rating": "0"
+    },
+    {
+      "name": "Կոկո Ֆիորի",
+      "url": "/restaurant/coco-fiori.html",
+      "tag": "Ծաղիկներ և Փուչիկներ",
+      "rating": "0"
+    },
+    {
+      "name": "Կայարանի Կարկանդակներ",
+      "url": "/restaurant/kayarani-karkandakner.html",
+      "tag": "Կարկանդակ",
+      "rating": "0"
+    },
+    {
+      "name": "Էգոիստ",
+      "url": "/restaurant/egoiste-gift-card.html",
+      "tag": "Լավ առաջարկ, Նվեր Քարտ",
+      "rating": "0"
+    },
+    {
+      "name": "Խմորի Աշխարհ",
+      "url": "/restaurant/world-of-dough.html",
+      "tag": "Քաղցրավենիք, Հացաբուլկեղեն, Կարկանդակ",
+      "rating": "100"
+    },
+    {
+      "name": "Բեկոն Մսամթերք",
+      "url": "/restaurant/bacon-product.html",
+      "tag": "Թարմ միս և մսամթերք",
+      "rating": "0"
+    },
+    {
+      "name": "Դը Քորներ",
+      "url": "/restaurant/the-corner.html",
+      "tag": "Բուրգեր և Սենդվիչ, Պաստա, Պիցցա",
+      "rating": "0"
+    },
+    {
+      "name": "Աթենք",
+      "url": "/restaurant/atenk.html",
+      "tag": "Թարմ միս և մսամթերք, Կիսաֆաբրիկատներ",
+      "rating": "60"
+    },
+    {
+      "name": "Աննե-Մոնա",
+      "url": "/restaurant/anne-mona.html",
+      "tag": "Ծաղիկներ և Փուչիկներ",
+      "rating": "0"
+    },
+    {
+      "name": "Ուրբան Շաուրմա",
+      "url": "/restaurant/urban-shawarma.html",
+      "tag": "Խորոված, քյաբաբ, Շաուրմա",
+      "rating": "0"
+    },
+    {
+      "name": "Ռենա",
+      "url": "/restaurant/rena-restaurant.html",
+      "tag": "Խորոված, քյաբաբ, Հայկական, Պիցցա",
+      "rating": "0"
+    },
+    {
+      "name": "Շաուրմա Խչոյի մոտ",
+      "url": "/restaurant/shawarma-khchoyi-mot.html",
+      "tag": "Խորոված, քյաբաբ, Շաուրմա",
+      "rating": "0"
+    },
+    {
+      "name": "Բայազետ",
+      "url": "/restaurant/bayazet.html",
+      "tag": "Թարմ միս և մսամթերք",
+      "rating": "0"
+    },
+    {
+      "name": "Պիոներ Բրազիլական Ռեստորան",
+      "url": "/restaurant/pioneer-brazilian-restaurant.html",
+      "tag": "Բրազիլական, Լանչ",
+      "rating": "0"
+    },
+    {
+      "name": "Քոֆիշոփ Քոմփնի",
+      "url": "/restaurant/coffeeshop.html",
+      "tag": "Քաղցրավենիք, Եվրոպական, Սուրճ և Թեյ",
+      "rating": "0"
+    },
+    {
+      "name": "Ֆրեսկո Պիցցա",
+      "url": "/restaurant/fresco-pizza.html",
+      "tag": "Իտալական, Կարկանդակ, Պիցցա",
+      "rating": "0"
+    },
+    {
+      "name": "Վահագնի Ռեստորան",
+      "url": "/restaurant/the-vahakni-restaurant.html",
+      "tag": "Խորոված, քյաբաբ, Պաստա, Պիցցա",
+      "rating": "0"
+    },
+    {
+      "name": "Ավենյու Դե Ռոզ",
+      "url": "/restaurant/avenue-de-rose.html",
+      "tag": "Ծաղիկներ և Փուչիկներ",
+      "rating": "100"
+    },
+    {
+      "name": "Մարկո Պոլո",
+      "url": "/restaurant/marco-polo.html",
+      "tag": "Եվրոպական, Իտալական, Պիցցա",
+      "rating": "73.4"
+    },
+    {
+      "name": "Դը Ալկո Շոփ",
+      "url": "/restaurant/the-alco-shop.html",
+      "tag": "Գարեջրատուն և Փաբ, Ըմպելիքներ և Խորտիկներ, Գարեջուր, Խեցգետին",
+      "rating": "0"
+    },
+    {
+      "name": "Գնդիկ Բոքոնիկ Լահմաջո",
+      "url": "/restaurant/gndik-boqonik-lahmajo.html",
+      "tag": "Լահմաջո",
+      "rating": "100"
+    },
+    {
+      "name": "Ռեստորան Տոսպիա",
+      "url": "/restaurant/tospia-restaurant.html",
+      "tag": "Խորոված, քյաբաբ, Հայկական",
+      "rating": "0"
+    },
+    {
+      "name": "Բրաբիոն Այգեգործական Կենտրոն",
+      "url": "/restaurant/brabion-garden-center.html",
+      "tag": "Ծաղիկներ և Փուչիկներ",
+      "rating": "0"
+    },
+    {
+      "name": "Պիցցա N1",
+      "url": "/restaurant/pizza-n1.html",
+      "tag": "Եվրոպական, Իտալական, Պիցցա",
+      "rating": "100"
+    },
+    {
+      "name": "Պիցցա Նինո",
+      "url": "/restaurant/pizza-nino.html",
+      "tag": "Իտալական, Լանչ, Պաստա, Պիցցա",
+      "rating": "0"
+    },
+    {
+      "name": "Nvirir.net",
+      "url": "/restaurant/nvirirnet.html",
+      "tag": "Ծաղիկներ և Փուչիկներ",
+      "rating": "0"
+    },
+    {
+      "name": "Վինո & Վինո",
+      "url": "/restaurant/vino-and-vino.html",
+      "tag": "Ըմպելիքներ և Խորտիկներ",
+      "rating": "0"
+    },
+    {
+      "name": "Մայ Լանչ",
+      "url": "/restaurant/my-lunch.html",
+      "tag": "Լանչ, Հայկական",
+      "rating": "77.6"
+    },
+    {
+      "name": "Սաթենիկ Հրուշակեղեն",
+      "url": "/restaurant/satenik-pastry.html",
+      "tag": "Քաղցրավենիք, Արտադրված է Հայաստանում, Հացաբուլկեղեն",
+      "rating": "0"
+    },
+    {
+      "name": "Կաբոն սրճարան",
+      "url": "/restaurant/kabon-cafe.html",
+      "tag": "Խորոված, քյաբաբ, Պիցցա, Վրացական",
+      "rating": "0"
+    },
+    {
+      "name": "Լա Ֆլոր",
+      "url": "/restaurant/la-flor.html",
+      "tag": "Ծաղիկներ և Փուչիկներ",
+      "rating": "0"
+    },
+    {
+      "name": "ԽԱՉԱՊՈՒՐԻ+",
+      "url": "/restaurant/khachapuri.html",
+      "tag": "Արցախյան, Լահմաջո, Կարկանդակ, Վրացական",
+      "rating": "0"
+    },
+    {
+      "name": "Իմպրեսսո",
+      "url": "/restaurant/impresso.html",
+      "tag": "Բուրգեր և Սենդվիչ, Սուրճ և Թեյ, Պաստա",
+      "rating": "0"
+    },
+    {
+      "name": "Յագեր",
+      "url": "/restaurant/jager.html",
+      "tag": "Ըմպելիքներ և Խորտիկներ, Գարեջուր, Խեցգետին",
+      "rating": "0"
+    },
+    {
+      "name": "Բիգ Բուք",
+      "url": "/restaurant/big-book.html",
+      "tag": "Բուրգեր և Սենդվիչ, Խորոված, քյաբաբ, Շաուրմա, Պիցցա",
+      "rating": "0"
+    },
+    {
+      "name": "Վեգա Պիցցերիա",
+      "url": "/restaurant/vega-pizzeria.html",
+      "tag": "Բուրգեր և Սենդվիչ, Լանչ, Պաստա, Պիցցա",
+      "rating": "0"
+    },
+    {
+      "name": "Քինգ Գարդեն",
+      "url": "/restaurant/king-garden.html",
+      "tag": "Ձուկ և ծովամթերք, Եվրոպական, Խորոված, քյաբաբ, Հայկական, Պաստա, Պիցցա",
+      "rating": "0"
+    },
+    {
+      "name": "Ածուխ Թոնրատուն",
+      "url": "/restaurant/atsukh-tonratun.html",
+      "tag": "Բուրգեր և Սենդվիչ, Խորոված, քյաբաբ, Լանչ, Հայկական, Շաուրմա",
+      "rating": "73.4"
+    },
+    {
+      "name": "Հին Զանգեզուր",
+      "url": "/restaurant/old-zangezour.html",
+      "tag": "Լավ առաջարկ, Լահմաջո, Խորոված, քյաբաբ, Լանչ, Հայկական, Շաուրմա",
+      "rating": "100"
+    },
+    {
+      "name": "Լիբան Ռեստորան",
+      "url": "/restaurant/liban-restaurant.html",
+      "tag": "Լիբանանյան, Արևելյան, Խորոված, քյաբաբ, Միջերկրածովյան",
+      "rating": "0"
+    },
+    {
+      "name": "Էվն Գիֆթս",
+      "url": "/restaurant/evn-gifts.html",
+      "tag": "Քաղցրավենիք, Ծաղիկներ և Փուչիկներ",
+      "rating": "0"
+    },
+    {
+      "name": "Ջասթ Կաֆե",
+      "url": "/restaurant/just-cafe.html",
+      "tag": "Բուրգեր և Սենդվիչ, Եվրոպական, Նախաճաշ, Պաստա",
+      "rating": "0"
+    },
+    {
+      "name": "Սքայ Հոթ Դոգ",
+      "url": "/restaurant/sky-hot-dog.html",
+      "tag": "Հոթ Դոգ, Ամերիկյան",
+      "rating": "0"
+    },
+    {
+      "name": "Ֆաբեր Ժե սրճարան",
+      "url": "/restaurant/faberge-cafe-boutique.html",
+      "tag": "Քաղցրավենիք, Եվրոպական",
+      "rating": "96.6"
+    },
+    {
+      "name": "Կոստիս Քեյք",
+      "url": "/restaurant/kostis-cake.html",
+      "tag": "Քաղցրավենիք, Հունական",
+      "rating": "0"
+    },
+    {
+      "name": "Երևանի Խաչապուրի հացատուն",
+      "url": "/restaurant/yerevani-khachapuri-hatsatun.html",
+      "tag": "Արցախյան, Բուրգեր և Սենդվիչ, Խորոված, քյաբաբ, Հավի գրիլ, Նախաճաշ, Շաուրմա",
+      "rating": "100"
+    },
+    {
+      "name": "Ֆիլոմենա",
+      "url": "/restaurant/filomena-flowers.html",
+      "tag": "Ծաղիկներ և Փուչիկներ",
+      "rating": "0"
+    },
+    {
+      "name": "Բաստուրմա Խանութ Սրճարան",
+      "url": "/restaurant/basturma.html",
+      "tag": "Բուրգեր և Սենդվիչ",
+      "rating": "0"
+    },
+    {
+      "name": "Նյու Յորք",
+      "url": "/restaurant/new-york.html",
+      "tag": "Բուրգեր և Սենդվիչ, Եվրոպական, Պիցցա",
+      "rating": "0"
+    },
+    {
+      "name": "Տորնադո Շաուրմա",
+      "url": "/restaurant/tornado-shawarma.html",
+      "tag": "Հոթ Դոգ, Լահմաջո, Խորոված, քյաբաբ, Կարկանդակ, Շաուրմա",
+      "rating": "0"
+    },
+    {
+      "name": "Անջելո",
+      "url": "/restaurant/angelo.html",
+      "tag": "Քաղցրավենիք, Կիսաֆաբրիկատներ, Կարկանդակ",
+      "rating": "0"
+    },
+    {
+      "name": "Քարավան",
+      "url": "/restaurant/qaravan.html",
+      "tag": "Արևելյան, Խորոված, քյաբաբ, Վրացական",
+      "rating": "0"
+    },
+    {
+      "name": "Ծղոտներ",
+      "url": "/restaurant/tsghotner.html",
+      "tag": "Ձուկ և ծովամթերք, Բուրգեր և Սենդվիչ, Խորոված, քյաբաբ, Հայկական",
+      "rating": "70"
+    },
+    {
+      "name": "Էնոտեկա",
+      "url": "/restaurant/enoteca.html",
+      "tag": "Ըմպելիքներ և Խորտիկներ",
+      "rating": "0"
+    },
+    {
+      "name": "Արմ Ֆուդ Բիստրո",
+      "url": "/restaurant/arm-food-bistro.html",
+      "tag": "Հոթ Դոգ, Բուրգեր և Սենդվիչ, Շաուրմա",
+      "rating": "0"
+    },
+    {
+      "name": "Բարել Ռեստորան",
+      "url": "/restaurant/barrel-beer-house.html",
+      "tag": "Գարեջրատուն և Փաբ, Խորոված, քյաբաբ",
+      "rating": "0"
+    },
+    {
+      "name": "Պանդոկ Հին Էրիվան",
+      "url": "/restaurant/pandok-old-erivan.html",
+      "tag": "Խորոված, քյաբաբ, Լանչ, Հայկական",
+      "rating": "0"
+    },
+    {
+      "name": "Կաֆե Բլան",
+      "url": "/restaurant/cafe-blanc.html",
+      "tag": "Բուրգեր և Սենդվիչ, Եվրոպական, Սթեյք, Ֆրանսիական",
+      "rating": "0"
+    },
+    {
+      "name": "Ուրարտու",
+      "url": "/restaurant/urartu.html",
+      "tag": "Խորոված, քյաբաբ, Հայկական",
+      "rating": "0"
+    },
+    {
+      "name": "Սանտա Ֆամիլիա",
+      "url": "/restaurant/santa-familia.html",
+      "tag": "Գաստրոնոմ, Թարմ միս և մսամթերք, Կիսաֆաբրիկատներ",
+      "rating": "0"
+    },
+    {
+      "name": "Տուն Լահմաջո",
+      "url": "/restaurant/lahmajo-tun.html",
+      "tag": "Լահմաջո, Խորոված, քյաբաբ, Հայկական, Վրացական",
+      "rating": "0"
+    },
+    {
+      "name": "Շե Հրաչ",
+      "url": "/restaurant/chez-hratch.html",
+      "tag": "Արևելյան",
+      "rating": "0"
+    },
+    {
+      "name": "Յամ-Յամ Դոնաթս",
+      "url": "/restaurant/yum-yum-donuts-yerevan.html",
+      "tag": "Քաղցրավենիք",
+      "rating": "80"
+    },
+    {
+      "name": "ԻՆԳՐԵԴԻԵՆՏ",
+      "url": "/restaurant/ingredient.html",
+      "tag": "Քաղցրավենիք, Էկո և Օրգանական սնունդ, Սթեյք",
+      "rating": "100"
+    },
+    {
+      "name": "Քոզի Է Լա Վիտա",
+      "url": "/restaurant/cosi-e-la-vita.html",
+      "tag": "Բուրգեր և Սենդվիչ, Հայկական, Պաստա, Սթեյք",
+      "rating": "0"
+    },
+    {
+      "name": "Տիֆոզի",
+      "url": "/restaurant/tifosi.html",
+      "tag": "Լավ առաջարկ, Բուրգեր և Սենդվիչ, Եվրոպական, Իտալական, Պիցցա",
+      "rating": "0"
+    },
+    {
+      "name": "Քարավանսարա",
+      "url": "/restaurant/qaravansara.html",
+      "tag": "Լահմաջո",
+      "rating": "0"
+    },
+    {
+      "name": "ՋԻՋԻՍ Պիցցա",
+      "url": "/restaurant/ggs-pizza.html",
+      "tag": "Լավ առաջարկ, Բուրգեր և Սենդվիչ, Եվրոպական, Իտալական, Լահմաջո, Մեքսիկական, Շաուրմա, Պիցցա",
+      "rating": "100"
+    },
+    {
+      "name": "Բլեք Բուլ Սթեյք Հաուս և Բար",
+      "url": "/restaurant/black-bull-steak-house-and-bar.html",
+      "tag": "Լավ առաջարկ, Բուրգեր և Սենդվիչ, Եվրոպական, Պաստա, Սթեյք",
+      "rating": "95"
+    },
+    {
+      "name": "Աթենիկա Հունական Շաուրմա",
+      "url": "/restaurant/athenica-greek-shawarma.html",
+      "tag": "Բուրգեր և Սենդվիչ, Հունական, Շաուրմա, Պիցցա",
+      "rating": "0"
+    },
+    {
+      "name": "Ռոսսի",
+      "url": "/restaurant/rossi-dessert-komitas.html",
+      "tag": "Քաղցրավենիք",
+      "rating": "100"
+    },
+    {
+      "name": "Նոր Քեսաբ",
+      "url": "/restaurant/new-kessab.html",
+      "tag": "Արևելյան, Լահմաջո, Խորոված, քյաբաբ",
+      "rating": "0"
+    },
+    {
+      "name": "Ավենյու դե Ֆլյող",
+      "url": "/restaurant/avenu-des-fleurs.html",
+      "tag": "Ծաղիկներ և Փուչիկներ",
+      "rating": "0"
+    },
+    {
+      "name": "Հակեր-Փշոր Գրիլ Հաուս",
+      "url": "/restaurant/hacker-pschorr-grill-house.html",
+      "tag": "Գարեջրատուն և Փաբ, Եվրոպական, Սթեյք",
+      "rating": "0"
+    },
+    {
+      "name": "Կովկասյան Խոհանոց",
+      "url": "/restaurant/caucasian-cuisine.html",
+      "tag": "Խորոված, քյաբաբ, Հայկական, Վրացական",
+      "rating": "0"
+    },
+    {
+      "name": "Բաֆըլո Գրիլ Բար",
+      "url": "/restaurant/buffalo-grill-bar.html",
+      "tag": "Բուրգեր և Սենդվիչ, Գարեջրատուն և Փաբ, Եվրոպական, Պաստա, Պիցցա, Սթեյք",
+      "rating": "0"
+    },
+    {
+      "name": "Քոզի",
+      "url": "/restaurant/cozy.html",
+      "tag": "Կարկանդակ",
+      "rating": "0"
+    },
+    {
+      "name": "Բալատուն",
+      "url": "/restaurant/balatoon-cherry-house.html",
+      "tag": "Քաղցրավենիք, Բուրգեր և Սենդվիչ, Հացաբուլկեղեն",
+      "rating": "10"
+    },
+    {
+      "name": "Լայֆ Սրճարան",
+      "url": "/restaurant/life-cafe.html",
+      "tag": "Էկո և Օրգանական սնունդ, Բուրգեր և Սենդվիչ, Եվրոպական, Նախաճաշ, Պաստա, Պիցցա, Սթեյք",
+      "rating": "0"
+    },
+    {
+      "name": "Լահմաջո",
+      "url": "/restaurant/lahmajun.html",
+      "tag": "Խեցգետին, Բուրգեր և Սենդվիչ, Լահմաջո, Պիցցա, Գարեջուր, Խեցգետին",
+      "rating": "100"
+    },
+    {
+      "name": "Piva.am",
+      "url": "/restaurant/pivaam.html",
+      "tag": "Խեցգետին, Գարեջրատուն և Փաբ, Գարեջուր, Խեցգետին",
+      "rating": "60"
+    },
+    {
+      "name": "Մերսի Գաստրո սրճարան",
+      "url": "/restaurant/merci-gastro-cafe.html",
+      "tag": "Բուրգեր և Սենդվիչ, Եվրոպական, Պաստա, Սթեյք",
+      "rating": "73.4"
+    },
+    {
+      "name": "Մոնո",
+      "url": "/restaurant/mono.html",
+      "tag": "Քաղցրավենիք, Հացաբուլկեղեն",
+      "rating": "96"
+    },
+    {
+      "name": "Աբու Հակոբ ռեստորան",
+      "url": "/restaurant/abu-hagop-restaurant.html",
+      "tag": "Արևելյան, Լահմաջո, Խորոված, քյաբաբ",
+      "rating": "0"
+    },
+    {
+      "name": "Վանիլլա Քեյքս",
+      "url": "/restaurant/vanilla-cakes.html",
+      "tag": "Քաղցրավենիք",
+      "rating": "0"
+    },
+    {
+      "name": "ԼաՍանի",
+      "url": "/restaurant/lasany.html",
+      "tag": "Լավ առաջարկ, Քաղցրավենիք, Ծաղիկներ և Փուչիկներ",
+      "rating": "66.6"
+    },
+    {
+      "name": "Սորրիզո",
+      "url": "/restaurant/sorriso.html",
+      "tag": "Ֆրեշ, Պաղպաղակ",
+      "rating": "0"
+    },
+    {
+      "name": "Ուրբան Գարեջրատուն",
+      "url": "/restaurant/urban-beer-house.html",
+      "tag": "Խեցգետին, Գարեջրատուն և Փաբ, Խորոված, քյաբաբ, Լանչ, Գարեջուր, Խեցգետին",
+      "rating": "80"
+    },
+    {
+      "name": "Մեղրատուն",
+      "url": "/restaurant/honey-house.html",
+      "tag": "Քաղցրավենիք, Գաստրոնոմ, Էկո և Օրգանական սնունդ",
+      "rating": "0"
+    },
+    {
+      "name": "Սիննաբոն",
+      "url": "/restaurant/cinnabon.html",
+      "tag": "Քաղցրավենիք, Բուրգեր և Սենդվիչ, Սուրճ և Թեյ",
+      "rating": "90"
+    },
+    {
+      "name": "Միմինո",
+      "url": "/restaurant/mimino.html",
+      "tag": "Խորոված, քյաբաբ, Հայկական, Վրացական",
+      "rating": "0"
+    },
+    {
+      "name": "Մոնրո Կաֆե",
+      "url": "/restaurant/monroe-cafe.html",
+      "tag": "Եվրոպական, Իտալական, Պաստա, Պիցցա",
+      "rating": "0"
+    },
+    {
+      "name": "Հալեպյան սենդվիչ",
+      "url": "/restaurant/aleppo-sandwich.html",
+      "tag": "Արևելյան, Բուրգեր և Սենդվիչ",
+      "rating": "0"
+    },
+    {
+      "name": "Լոտուս",
+      "url": "/restaurant/lotus.html",
+      "tag": "Չինական, Ասիական, Սուշի, Ճապոնական",
+      "rating": "0"
+    },
+    {
+      "name": "Փափայա",
+      "url": "/restaurant/papaya.html",
+      "tag": "Քաղցրավենիք",
+      "rating": "0"
+    },
+    {
+      "name": "Աչաջուր",
+      "url": "/restaurant/achajour.html",
+      "tag": "Բուրգեր և Սենդվիչ, Ֆրեշ, Պաղպաղակ, Սուրճ և Թեյ, Նախաճաշ",
+      "rating": "0"
+    },
+    {
+      "name": "Սիսի",
+      "url": "/restaurant/sisi-cafe.html",
+      "tag": "Արևելյան, Բուրգեր և Սենդվիչ",
+      "rating": "0"
+    },
+    {
+      "name": "Վերոնա",
+      "url": "/restaurant/verona.html",
+      "tag": "Բուրգեր և Սենդվիչ, Եվրոպական, Իտալական, Պաստա, Պիցցա",
+      "rating": "0"
+    },
+    {
+      "name": "Արևելյան Շաուրմա",
+      "url": "/restaurant/eastern-shaurma.html",
+      "tag": "Լահմաջո, Խորոված, քյաբաբ, Շաուրմա",
+      "rating": "100"
+    },
+    {
+      "name": "Լակի Դեսերտ",
+      "url": "/restaurant/laki-dessert-art-studio.html",
+      "tag": "Քաղցրավենիք",
+      "rating": "0"
+    },
+    {
+      "name": "Լուի Շարդեն",
+      "url": "/restaurant/louis-charden.html",
+      "tag": "Քաղցրավենիք, Բուրգեր և Սենդվիչ, Եվրոպական, Հացաբուլկեղեն, Պաստա, Ֆրանսիական",
+      "rating": "0"
+    },
+    {
+      "name": "Ֆիոնա Ֆլորա",
+      "url": "/restaurant/fiona-flora.html",
+      "tag": "Ծաղիկներ և Փուչիկներ",
+      "rating": "0"
+    },
+    {
+      "name": "Միլոս",
+      "url": "/restaurant/milos.html",
+      "tag": "Բուրգեր և Սենդվիչ, Եվրոպական, Լանչ, Հունական",
+      "rating": "80"
+    },
+    {
+      "name": "Այնթապ Հրուշակեղեն",
+      "url": "/restaurant/anteb-sweet.html",
+      "tag": "Քաղցրավենիք, Արևելյան",
+      "rating": "10"
+    },
+    {
+      "name": "Սպագո Գրիլ",
+      "url": "/restaurant/spago-grill-yerevan-mall.html",
+      "tag": "Ասիական, Մոնղոլական",
+      "rating": "0"
+    },
+    {
+      "name": "Մոնտե Քրիստո",
+      "url": "/restaurant/monte-cristo.html",
+      "tag": "Խորոված, քյաբաբ, Հայկական",
+      "rating": "0"
+    },
+    {
+      "name": "Արտբրիջ",
+      "url": "/restaurant/artbridge.html",
+      "tag": "Բուրգեր և Սենդվիչ, Եվրոպական, Նախաճաշ, Պաստա",
+      "rating": "100"
+    },
+    {
+      "name": "Աբխազական գրիլ",
+      "url": "/restaurant/abkhazian-grill.html",
+      "tag": "Խորոված, քյաբաբ, Հավի գրիլ, Հայկական, Վրացական",
+      "rating": "70"
+    },
+    {
+      "name": "Արայի Ամրոց",
+      "url": "/restaurant/arayi-amroc.html",
+      "tag": "Խորոված, քյաբաբ, Վրացական",
+      "rating": "0"
+    },
+    {
+      "name": "Ժենգյալով հաց",
+      "url": "/restaurant/jengyalov-hats.html",
+      "tag": "Արցախյան, Ժենգյալով Հաց, Հայկական",
+      "rating": "100"
+    },
+    {
+      "name": "Ֆլորեքս",
+      "url": "/restaurant/florex.html",
+      "tag": "Ծաղիկներ և Փուչիկներ",
+      "rating": "0"
+    },
+    {
+      "name": "Փոքր Փարիզ",
+      "url": "/restaurant/le-petit-paris.html",
+      "tag": "Քաղցրավենիք, Բուրգեր և Սենդվիչ, Եվրոպական, Ֆրեշ, Պաղպաղակ, Սուրճ և Թեյ, Նախաճաշ, Ֆրանսիական",
+      "rating": "10"
+    },
+    {
+      "name": "Բլիզզարդ լանչ",
+      "url": "/restaurant/blizzard-lunch.html",
+      "tag": "Լանչ",
+      "rating": "0"
+    },
+    {
+      "name": "Բագետ էնդ Կո",
+      "url": "/restaurant/baguette-and-co.html",
+      "tag": "Քաղցրավենիք, Հացաբուլկեղեն, Խորոված, քյաբաբ, Սուրճ և Թեյ, Նախաճաշ",
+      "rating": "73.4"
+    },
+    {
+      "name": "Ջազզվե",
+      "url": "/restaurant/jazzve.html",
+      "tag": "Բուրգեր և Սենդվիչ, Եվրոպական",
+      "rating": "0"
+    },
+    {
+      "name": "Մեր Գյուղը",
+      "url": "/restaurant/our-village.html",
+      "tag": "Հայկական",
+      "rating": "0"
+    },
+    {
+      "name": "Սուլիկո",
+      "url": "/restaurant/suliko.html",
+      "tag": "Լավ առաջարկ, Խորոված, քյաբաբ, Վրացական",
+      "rating": "76.6"
+    },
+    {
+      "name": "Սակուրադա",
+      "url": "/restaurant/sakurada.html",
+      "tag": "Ասիական, Սուշի, Ճապոնական",
+      "rating": "100"
+    },
+    {
+      "name": "Էդեն",
+      "url": "/restaurant/eden.html",
+      "tag": "Ամերիկյան, Բուրգեր և Սենդվիչ, Պաստա",
+      "rating": "0"
+    },
+    {
+      "name": "Մանա Բիստրո",
+      "url": "/restaurant/mana-bistro.html",
+      "tag": "Պիցցա",
+      "rating": "0"
+    },
+    {
+      "name": "Էնի Ռոուզ",
+      "url": "/restaurant/any-rose.html",
+      "tag": "Ծաղիկներ և Փուչիկներ",
+      "rating": "0"
+    },
+    {
+      "name": "Բիրբուրգ Գարեջրատուն",
+      "url": "/restaurant/beerburg-beer-house.html",
+      "tag": "Խեցգետին, Գարեջրատուն և Փաբ, Ըմպելիքներ և Խորտիկներ, Գարեջուր, Խեցգետին",
+      "rating": "55"
+    },
+    {
+      "name": "Քուին Բուրգեր",
+      "url": "/restaurant/queen-burger.html",
+      "tag": "Ամերիկյան, Բուրգեր և Սենդվիչ",
+      "rating": "0"
+    },
+    {
+      "name": "Սքուեր Ուան",
+      "url": "/restaurant/square-one.html",
+      "tag": "Անգլիական, Ամերիկյան, Բուրգեր և Սենդվիչ, Նախաճաշ, Պաստա, Պիցցա",
+      "rating": "100"
+    },
+    {
+      "name": "Դան Դեսերտ",
+      "url": "/restaurant/dan-dessert.html",
+      "tag": "Քաղցրավենիք",
+      "rating": "87.2"
+    },
+    {
+      "name": "Վասաբի Ֆաստ Ֆուդ",
+      "url": "/restaurant/wasabi-noodles-rice-and-more.html",
+      "tag": "Ասիական, Պաստա, Ճապոնական",
+      "rating": "0"
+    },
+    {
+      "name": "Պասիֆլորա",
+      "url": "/restaurant/passion-flower.html",
+      "tag": "Ծաղիկներ և Փուչիկներ",
+      "rating": "55"
+    },
+    {
+      "name": "Anahit.am",
+      "url": "/restaurant/anahitam.html",
+      "tag": "Ծաղիկներ և Փուչիկներ",
+      "rating": "80"
+    },
+    {
+      "name": "ԼեվՐիմ",
+      "url": "/restaurant/levrim.html",
+      "tag": "Հացաբուլկեղեն",
+      "rating": "0"
+    },
+    {
+      "name": "Լահմաջո Խաչապուրի",
+      "url": "/restaurant/lahmajo-khachapuri.html",
+      "tag": "Բուրգեր և Սենդվիչ, Լահմաջո, Խորոված, քյաբաբ, Կարկանդակ, Շաուրմա",
+      "rating": "0"
+    },
+    {
+      "name": "Մայ Փարթի",
+      "url": "/restaurant/my-party.html",
+      "tag": "Քաղցրավենիք",
+      "rating": "0"
+    },
+    {
+      "name": "Բրիոշ",
+      "url": "/restaurant/brioche.html",
+      "tag": "Քաղցրավենիք, Բուրգեր և Սենդվիչ, Եվրոպական, Հացաբուլկեղեն, Նախաճաշ, Ֆրանսիական",
+      "rating": "100"
+    },
+    {
+      "name": "Երևան Թայմ",
+      "url": "/restaurant/yerevan-time.html",
+      "tag": "Խորոված, քյաբաբ, Պիցցա",
+      "rating": "0"
+    },
+    {
+      "name": "Արաքս Քեյք",
+      "url": "/restaurant/araks-cake.html",
+      "tag": "Քաղցրավենիք, Կարկանդակ",
+      "rating": "100"
+    },
+    {
+      "name": "Սալատ Հաուս",
+      "url": "/restaurant/salad-house.html",
+      "tag": "Կիսաֆաբրիկատներ, Լանչ",
+      "rating": "0"
+    },
+    {
+      "name": "Լիփ Լիք Քեյքս",
+      "url": "/restaurant/lip-lick-cakes.html",
+      "tag": "Քաղցրավենիք",
+      "rating": "0"
+    },
+    {
+      "name": "Հին Ջրվեժ",
+      "url": "/restaurant/old-jrvezh.html",
+      "tag": "Խորոված, քյաբաբ, Հայկական",
+      "rating": "0"
+    },
+    {
+      "name": "Ռոլլեր",
+      "url": "/restaurant/roller.html",
+      "tag": "Լավ առաջարկ, Արցախյան, Արևելյան, Լահմաջո, Շաուրմա",
+      "rating": "50"
+    },
+    {
+      "name": "Պիրոժկոֆֆ",
+      "url": "/restaurant/pirojkoff.html",
+      "tag": "Հացաբուլկեղեն, Կարկանդակ",
+      "rating": "100"
+    },
+    {
+      "name": "Արտ Լանչ",
+      "url": "/restaurant/art-lunch.html",
+      "tag": "Խորոված, քյաբաբ, Լանչ, Հայկական, Շաուրմա",
+      "rating": "55"
+    },
+    {
+      "name": "Կարմիր Գլխարկ",
+      "url": "/restaurant/karmir-glkhark.html",
+      "tag": "Քաղցրավենիք, Կարկանդակ",
+      "rating": "90"
+    },
+    {
+      "name": "Լոռի հացատուն",
+      "url": "/restaurant/lori-hacatun.html",
+      "tag": "Խեցգետին, Գարեջրատուն և Փաբ, Խորոված, քյաբաբ, Հավի գրիլ, Հայկական, Գարեջուր, Խեցգետին",
+      "rating": "100"
+    },
+    {
+      "name": "Սեգաֆրեդո",
+      "url": "/restaurant/segafredo-zanetti.html",
+      "tag": "Եվրոպական, Իտալական, Սուրճ և Թեյ, Նախաճաշ",
+      "rating": "0"
+    },
+    {
+      "name": "Ռելաքս Հոլ",
+      "url": "/restaurant/relax-hall-hookah-place.html",
+      "tag": "Եվրոպական, Պաստա, Սթեյք",
+      "rating": "0"
+    },
+    {
+      "name": "Մեծ Հայք",
+      "url": "/restaurant/mets-hayk.html",
+      "tag": "Խորոված, քյաբաբ, Հավի գրիլ, Հայկական, Պիցցա",
+      "rating": "0"
+    },
+    {
+      "name": "ՎՍ",
+      "url": "/restaurant/vs.html",
+      "tag": "Գաստրոնոմ, Կիսաֆաբրիկատներ, Լահմաջո",
+      "rating": "0"
+    },
+    {
+      "name": "Վերնյանո",
+      "url": "/restaurant/vergnano.html",
+      "tag": "Բուրգեր և Սենդվիչ, Իտալական, Սուրճ և Թեյ, Պաստա, Պիցցա",
+      "rating": "0"
+    },
+    {
+      "name": "Տիգրան Մեծի Պանդոկ",
+      "url": "/restaurant/tavern-of-tigran-mets.html",
+      "tag": "Խորոված, քյաբաբ, Հայկական, Պաստա",
+      "rating": "0"
+    },
+    {
+      "name": "Քոֆի Փոյինթ",
+      "url": "/restaurant/coffee-point.html",
+      "tag": "Քաղցրավենիք, Բուրգեր և Սենդվիչ, Ֆրեշ, Պաղպաղակ",
+      "rating": "0"
+    },
+    {
+      "name": "Շահ Պիցցա",
+      "url": "/restaurant/shah-pizza.html",
+      "tag": "Իրանական/Պարսկական",
+      "rating": "0"
+    },
+    {
+      "name": "Գրին Բին",
+      "url": "/restaurant/the-green-bean.html",
+      "tag": "Եվրոպական",
+      "rating": "100"
+    },
+    {
+      "name": "Պռոշյան Լաունջ Ռեստորան",
+      "url": "/restaurant/proshyan-lounge.html",
+      "tag": "Լավ առաջարկ, Հայկական",
+      "rating": "0"
+    },
+    {
+      "name": "Տնական Գյուղմթերք",
+      "url": "/restaurant/tnakan-gyughmterq.html",
+      "tag": "Խեցգետին, Գաստրոնոմ, Էկո և Օրգանական սնունդ, Թարմ միս և մսամթերք, Գարեջուր, Խեցգետին",
+      "rating": "0"
+    },
+    {
+      "name": "Գրին Վուդ",
+      "url": "/restaurant/green-wood.html",
+      "tag": "Խեցգետին, Գարեջրատուն և Փաբ",
+      "rating": "0"
+    },
+    {
+      "name": "Մերի Բեյքերի",
+      "url": "/restaurant/mary-bakery.html",
+      "tag": "Քաղցրավենիք",
+      "rating": "0"
+    },
+    {
+      "name": "Պանդոկ N1",
+      "url": "/restaurant/pandok-n1.html",
+      "tag": "Հայկական",
+      "rating": "0"
+    },
+    {
+      "name": "Պեչկա Սլոյկա",
+      "url": "/restaurant/pechka-sloyka.html",
+      "tag": "Կիսաֆաբրիկատներ, Կարկանդակ",
+      "rating": "0"
+    },
+    {
+      "name": "Բրաբիոն",
+      "url": "/restaurant/brabion.html",
+      "tag": "Ծաղիկներ և Փուչիկներ",
+      "rating": "0"
+    },
+    {
+      "name": "Էլ Գարդեն",
+      "url": "/restaurant/el-garden.html",
+      "tag": "Հայկական",
+      "rating": "0"
+    },
+    {
+      "name": "Մոլինարի",
+      "url": "/restaurant/molinari-caffe.html",
+      "tag": "Իտալական, Սուրճ և Թեյ",
+      "rating": "0"
+    },
+    {
+      "name": "Լա Բուլանժերի դե Փարիզ",
+      "url": "/restaurant/la-boulangerie-de-paris.html",
+      "tag": "Սուրճ և Թեյ, Ֆրանսիական",
+      "rating": "0"
+    },
+    {
+      "name": "Դոլչետտո",
+      "url": "/restaurant/dolchetto.html",
+      "tag": "Ծաղիկներ և Փուչիկներ",
+      "rating": "10"
+    },
+    {
+      "name": "Սուշի Մարկետ Վասաբի",
+      "url": "/restaurant/sushi-market-wasabi.html",
+      "tag": "Կիսաֆաբրիկատներ, Սուշի",
+      "rating": "0"
+    },
+    {
+      "name": "Երազ Լաունջ",
+      "url": "/restaurant/yeraz-lounge-bar-restaurant.html",
+      "tag": "Եվրոպական",
+      "rating": "0"
+    },
+    {
+      "name": "Քինգ Շաուրմա",
+      "url": "/restaurant/king-shaurma.html",
+      "tag": "Հոթ Դոգ, Շաուրմա",
+      "rating": "80"
+    },
+    {
+      "name": "Ֆլամբէ",
+      "url": "/restaurant/flambe.html",
+      "tag": "Քաղցրավենիք",
+      "rating": "80"
+    },
+    {
+      "name": "Բիր Գարդեն",
+      "url": "/restaurant/beer-garden.html",
+      "tag": "Խեցգետին, Գարեջրատուն և Փաբ, Գարեջուր, Խեցգետին",
+      "rating": "0"
+    },
+    {
+      "name": "Բուրգեր Շոփ",
+      "url": "/restaurant/burger-shop.html",
+      "tag": "Հոթ Դոգ, Բուրգեր և Սենդվիչ, Կարկանդակ",
+      "rating": "40"
+    },
+    {
+      "name": "HB Գարեջրատուն",
+      "url": "/restaurant/hb-beer-house.html",
+      "tag": "Խեցգետին, Գարեջրատուն և Փաբ, Գարեջուր, Խեցգետին",
+      "rating": "100"
+    },
+    {
+      "name": "Դը Վայն Հաուս",
+      "url": "/restaurant/the-wine-house.html",
+      "tag": "Ձուկ և ծովամթերք, Բուրգեր և Սենդվիչ, Եվրոպական, Պաստա, Սթեյք",
+      "rating": "70"
+    },
+    {
+      "name": "Բելլաջիո",
+      "url": "/restaurant/bellagio.html",
+      "tag": "Ձուկ և ծովամթերք, Խորոված, քյաբաբ, Հայկական, Պաստա",
+      "rating": "0"
+    },
+    {
+      "name": "Վանիլա Քոֆի",
+      "url": "/restaurant/vanilla-coffee.html",
+      "tag": "Եվրոպական",
+      "rating": "0"
+    },
+    {
+      "name": "Գրեմմի Սրճարան",
+      "url": "/restaurant/grammy-cafe.html",
+      "tag": "Բուրգեր և Սենդվիչ, Խորոված, քյաբաբ, Պաստա, Պիցցա, Սթեյք",
+      "rating": "0"
+    },
+    {
+      "name": "Հեմինգուեյս",
+      "url": "/restaurant/hemingways-pub.html",
+      "tag": "Գարեջրատուն և Փաբ, Ըմպելիքներ և Խորտիկներ",
+      "rating": "0"
+    },
+    {
+      "name": "Կարապի լիճ",
+      "url": "/restaurant/swan-lake.html",
+      "tag": "Գարեջրատուն և Փաբ, Եվրոպական, Պաստա, Պիցցա, Սթեյք",
+      "rating": "0"
+    },
+    {
+      "name": "Մոն Կաֆե",
+      "url": "/restaurant/mon-cafe.html",
+      "tag": "Լավ առաջարկ, Բուրգեր և Սենդվիչ, Եվրոպական, Պաստա, Սթեյք",
+      "rating": "0"
+    },
+    {
+      "name": "Ջասմինա Ծաղիկներ",
+      "url": "/restaurant/jasmina-flowers.html",
+      "tag": "Ծաղիկներ և Փուչիկներ",
+      "rating": "100"
+    },
+    {
+      "name": "Կառնուտ Շաուրմա",
+      "url": "/restaurant/karnut-shaurma.html",
+      "tag": "Շաուրմա",
+      "rating": "88.6"
+    },
+    {
+      "name": "Թոնրատուն Կարս",
+      "url": "/restaurant/tonratun-kars.html",
+      "tag": "Հոթ Դոգ, Բուրգեր և Սենդվիչ, Խորոված, քյաբաբ, Հավի գրիլ, Հայկական",
+      "rating": "100"
+    }
+  ]
+}

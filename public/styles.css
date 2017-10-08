@@ -1,0 +1,23 @@
+.chart {
+  width: 100%; 
+  min-height: 450px;
+  border: 2px solid black;
+}
+
+.tablechart {
+  width: 100%;
+}
+
+.menu {
+  border: 1px solid black;
+}
+
+.table {
+  border: 2px solid black;
+  text-align: center;
+  width: 90%;
+  margin-left: 5%;
+  margin-right: 5%;
+  padding: 10px;
+  margin-top: 10px; 
+}
